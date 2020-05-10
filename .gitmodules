@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:wilo087/pethome_raffle_backend.git
+	branch = master
+[submodule "client"]
+	path = client
+	url = git@github.com:wilo087/pethome_raffle_client.git
+	branch = master
